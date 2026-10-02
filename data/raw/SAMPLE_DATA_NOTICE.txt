@@ -1,0 +1,4 @@
+healthcare-dataset-stroke-data.csv in this folder is SYNTHETIC demo data (same columns as the Kaggle
+"Stroke Prediction Dataset") so the app runs out of the box. Replace it with the real CSV (same file name)
+or upload the real file on the "Upload Data" page, then retrain on the "Train Model" page.
+Regenerate the demo file any time with: python scripts/make_sample_data.py
